@@ -16,7 +16,7 @@ TestRail [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/74091729
 
 Sitechco (https://chlist.sitechco.ru/project/16954/checklist?) [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/741310494/Listy+kontrolne+DarkOrbit?atlOrigin=eyJpIjoiMTk3NzQ5MzcxNzNkNDVmYTg5MTAzNzFmMGI2NDljYjMiLCJwIjoiYyJ9)
 
-## Bugi - mMntis & Bugzilla & Jira & Redmine
+## Bugi - Mantis & Bugzilla & Jira & Redmine
 Zgłoszenie bugi - Mantis & BugZilla [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/740917295/Ulepszenia+i+Bugi+DarkOrbit?atlOrigin=eyJpIjoiYzhlYTE1N2UwMjI0NGUxMmI5YWRmODg2Mjc4YTczZDgiLCJwIjoiYyJ9)
 
 Zgłoszenie bug  - Jira [tutaj](https://qa-courses.atlassian.net/projects/ST06/issues/ST06-10?filter=allopenissues)
