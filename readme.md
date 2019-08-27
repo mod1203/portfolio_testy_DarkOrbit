@@ -12,6 +12,19 @@ TestLink [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/74091729
 
 TestRail [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/740917291/Przypadki+testowe+DarkOrbit?atlOrigin=eyJpIjoiODU0MWQ4ZTNiZDhmNDJlMzkxYjY0ZDVmOWU2MzBhMjEiLCJwIjoiYyJ9)
 
-## Listy kontrolne
+## Listy kontrolne, granice, klasy równoważności
 
-Sitechco (https://chlist.sitechco.ru/project/16954/checklist?) [tutaj] (https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/741310494/Listy+kontrolne+DarkOrbit?atlOrigin=eyJpIjoiMTk3NzQ5MzcxNzNkNDVmYTg5MTAzNzFmMGI2NDljYjMiLCJwIjoiYyJ9)
+Sitechco (https://chlist.sitechco.ru/project/16954/checklist?) [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/741310494/Listy+kontrolne+DarkOrbit?atlOrigin=eyJpIjoiMTk3NzQ5MzcxNzNkNDVmYTg5MTAzNzFmMGI2NDljYjMiLCJwIjoiYyJ9)
+
+## Bugi - mMntis & Bugzilla
+
+Zgłoszenie bugi (Mantis & BugZilla) [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/740917295/Ulepszenia+i+Bugi+DarkOrbit?atlOrigin=eyJpIjoiYzhlYTE1N2UwMjI0NGUxMmI5YWRmODg2Mjc4YTczZDgiLCJwIjoiYyJ9)
+
+## analiza listy kontrolnej
+
+Sitechco [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/740884504/Analiza+listy+kontrolnej+DarkOrbit?atlOrigin=eyJpIjoiYzg0YWNjYjE5ZmRiNDRkNmEzOWJkNjVhYTBkYzkzODIiLCJwIjoiYyJ9)
+
+## Diagram przejść (state trasition)
+
+Diagram przejść [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/745111612/State+Transition+DarkOrbit?atlOrigin=eyJpIjoiMmY4ZmZjYjc1MjA3NGYyOWE5MjE0ZTc5NThiNDFiOTkiLCJwIjoiYyJ9)
+
