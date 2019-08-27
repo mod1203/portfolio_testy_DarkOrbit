@@ -1,0 +1,9 @@
+Mnemotechnika dla gier online GIDPWO 
+
+1. Grywalnoœæ – czy gra jest zrozumia³a w zakresie scenariusza rozgrywki, kto mo¿e w ni¹ graæ np. tylko m³odzie¿ czy te¿ osoby starsze, niepe³nosprawni. Czy gra nie nudzi siê, nie jest monotonna,etc.;
+2. Interfejs - sprawdzenie na ile gra jest ³atwa w obs³udze prze uczestnika rozgrywki, rozmieszczenie elementów, kolorystyka, etc.;
+3. Dane – jakie dane wprowadza gracz, czy jest zrozumia³e czego siê oczekuje od  gracza np. wype³niania formularzy, zakupów w sklepie, etc.;
+4. Platformy – jak gra zachowuje siê na ró¿nych systemach operacyjnych i przegl¹darkach;
+5. Wydajnoœæ – szybkoœæ w grze w zale¿noœci od zasobów sprzêtowych. Minimalne wymagania.;
+6. Obci¹¿enie – ilu graczy mo¿e jednoczeœnie braæ udzia³ w rozgrywce. Jakie s¹ granice brzegowe.
+
