@@ -65,3 +65,7 @@ w katalogu - wymyślamy mnemotechnikę
 ## Pairwise
 
 [tutaj](https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/779190273/Pairwise+DarkOrbit?atlOrigin=eyJpIjoiMjYyNzM4MWJjNjZhNDIyNDkyNjY3YzMzN2U0Y2ZhNDQiLCJwIjoiYyJ9)
+
+## Katalog Ceryfikaty
+- Git & GitHub
+- MSSQL Server - ppoziom podstawowy
