@@ -68,4 +68,4 @@ w katalogu - wymyślamy mnemotechnikę
 
 ## Katalog Ceryfikaty
 - Git & GitHub
-- MSSQL Server - ppoziom podstawowy
+- MSSQL Server - poziom podstawowy
