@@ -1,0 +1,3 @@
+Klasyfikacja testów w waszej aplikacji
+
+https://qa-courses.atlassian.net/wiki/spaces/ST6/pages/756482069/Klasyfikacja+test+w+DarkOrbit
